@@ -1,4 +1,4 @@
 # Merge_-_conflicts
 
-LOCAL
+REMOTE
 - Test pour merge et confilts
